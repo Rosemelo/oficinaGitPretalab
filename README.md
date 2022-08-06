@@ -1,0 +1,2 @@
+# oficinaGitPretalab
+Meu primeiro repositório
